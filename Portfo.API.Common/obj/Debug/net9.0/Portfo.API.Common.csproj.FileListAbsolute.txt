@@ -1,0 +1,12 @@
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\bin\Debug\net9.0\Portfo.API.Common.deps.json
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\bin\Debug\net9.0\Portfo.API.Common.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\bin\Debug\net9.0\Portfo.API.Common.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\Portfo.API.Common.csproj.AssemblyReference.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\Portfo.API.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\Portfo.API.Common.AssemblyInfoInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\Portfo.API.Common.AssemblyInfo.cs
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\Portfo.API.Common.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\Portfo.API.Common.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\refint\Portfo.API.Common.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\Portfo.API.Common.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.Common\obj\Debug\net9.0\ref\Portfo.API.Common.dll

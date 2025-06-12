@@ -1,0 +1,17 @@
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\bin\Debug\net9.0\Portfo.Repo.SqlDatabase.deps.json
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\bin\Debug\net9.0\Portfo.Repo.SqlDatabase.runtimeconfig.json
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\bin\Debug\net9.0\Portfo.Repo.SqlDatabase.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\bin\Debug\net9.0\Portfo.Repo.SqlDatabase.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\bin\Debug\net9.0\Portfo.Tools.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\bin\Debug\net9.0\Portfo.Tools.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.csproj.AssemblyReference.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.AssemblyInfoInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.AssemblyInfo.cs
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.R.55C2ECB7.Up2Date
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\refint\Portfo.Repo.SqlDatabase.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\Portfo.Repo.SqlDatabase.genruntimeconfig.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Repo.SqlDatabase\obj\Debug\net9.0\ref\Portfo.Repo.SqlDatabase.dll

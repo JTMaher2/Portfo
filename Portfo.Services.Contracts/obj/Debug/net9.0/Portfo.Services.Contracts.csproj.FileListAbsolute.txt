@@ -1,0 +1,15 @@
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\bin\Debug\net9.0\Portfo.Services.Contracts.deps.json
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\bin\Debug\net9.0\Portfo.Services.Contracts.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\bin\Debug\net9.0\Portfo.Services.Contracts.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\bin\Debug\net9.0\Portfo.Services.Model.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\bin\Debug\net9.0\Portfo.Services.Model.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.Services.Contracts.csproj.AssemblyReference.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.Services.Contracts.AssemblyInfoInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.Services.Contracts.AssemblyInfo.cs
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.Services.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.S.F667A275.Up2Date
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.Services.Contracts.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\refint\Portfo.Services.Contracts.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\Portfo.Services.Contracts.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Contracts\obj\Debug\net9.0\ref\Portfo.Services.Contracts.dll

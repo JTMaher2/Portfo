@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Portfo.API.DataContracts</name>
+    </assembly>
+    <members>
+        <member name="T:Portfo.API.DataContracts.Address">
+            <summary>
+            Physical address
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.City">
+            <summary>
+            City
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.Street">
+            <summary>
+            Street
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.ZipCode">
+            <summary>
+            Zip code
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.Country">
+            <summary>
+            Country
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Post">
+            <summary>
+            Post datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.Id">
+            <summary>
+            Post Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.AuthorUserId">
+            <summary>
+            Post author
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.Title">
+            <summary>
+            Post title
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.Description">
+            <summary>
+            User address
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.CreatedAt">
+            <summary>
+            User creation date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.UpdatedAt">
+            <summary>
+            User last update date
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.PostCreationRequest">
+            <summary>
+            User creation request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.PostCreationRequest.Date">
+            <summary>
+            Post creation request date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.PostCreationRequest.Post">
+            <summary>
+            Post creation data
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.Request`1">
+            <summary>
+            Generic request parameter.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.Request`1.Date">
+            <summary>
+            Request date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.Request`1.CorrelationId">
+            <summary>
+            Request correlation id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.Request`1.Payload">
+            <summary>
+            Request payload
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.UserCreationRequest">
+            <summary>
+            User creation request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.UserCreationRequest.Date">
+            <summary>
+            User creation request date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.UserCreationRequest.User">
+            <summary>
+            User creation data
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Responses.Response`2">
+            <summary>
+            Geeric response class.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <typeparam name="R"></typeparam>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.Request">
+            <summary>
+            Request
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.CorrelationId">
+            <summary>
+            Correlation Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.RequestDate">
+            <summary>
+            Request date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.ResponseDate">
+            <summary>
+            Response date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.ResponseContent">
+            <summary>
+            Response content
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.IsSuccessfull">
+            <summary>
+            Defines if the request has been processed successfully
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.Error">
+            <summary>
+            Error message(s)
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Responses.UserCreationResponse">
+            <summary>
+            User creation response
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.User">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.Id">
+            <summary>
+            User Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.Firstname">
+            <summary>
+            User firstname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.Lastname">
+            <summary>
+            User lastname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.Address">
+            <summary>
+            User address
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.CreationDate">
+            <summary>
+            User creation date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.LastUpdateDate">
+            <summary>
+            User last update date
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.UserCreation">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserCreation.Id">
+            <summary>
+            User Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserCreation.Firstname">
+            <summary>
+            User firstname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserCreation.Lastname">
+            <summary>
+            User lastname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserCreation.CreationDate">
+            <summary>
+            User creation date
+            </summary>
+        </member>
+    </members>
+</doc>

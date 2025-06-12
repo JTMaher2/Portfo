@@ -1,0 +1,12 @@
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\bin\Release\net9.0\Portfo.Tools.deps.json
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\bin\Release\net9.0\Portfo.Tools.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\bin\Release\net9.0\Portfo.Tools.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\Portfo.Tools.csproj.AssemblyReference.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\Portfo.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\Portfo.Tools.AssemblyInfoInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\Portfo.Tools.AssemblyInfo.cs
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\Portfo.Tools.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\Portfo.Tools.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\refint\Portfo.Tools.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\Portfo.Tools.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Tools\obj\Release\net9.0\ref\Portfo.Tools.dll

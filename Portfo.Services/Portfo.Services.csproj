@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Portfo.API.Common\Portfo.API.Common.csproj" />
+    <ProjectReference Include="..\Portfo.Services.Contracts\Portfo.Services.Contracts.csproj" />
+    <ProjectReference Include="..\Portfo.Services.Model\Portfo.Services.Model.csproj" />
+    <ProjectReference Include="..\Portfo.Tools\Portfo.Tools.csproj" />
+    <ProjectReference Include="..\Portfo.Repo.SqlDatabase\Portfo.Repo.SqlDatabase.csproj"/>
+  </ItemGroup>
+
+</Project>

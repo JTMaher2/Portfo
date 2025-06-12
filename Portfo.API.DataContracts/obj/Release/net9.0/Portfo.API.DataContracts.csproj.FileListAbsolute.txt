@@ -1,0 +1,14 @@
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\bin\Release\net9.0\Portfo.API.DataContracts.deps.json
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\bin\Release\net9.0\Portfo.API.DataContracts.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\bin\Release\net9.0\Portfo.API.DataContracts.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\bin\Release\net9.0\Portfo.API.DataContracts.xml
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.csproj.AssemblyReference.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.AssemblyInfoInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.AssemblyInfo.cs
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\refint\Portfo.API.DataContracts.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.xml
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\Portfo.API.DataContracts.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.API.DataContracts\obj\Release\net9.0\ref\Portfo.API.DataContracts.dll

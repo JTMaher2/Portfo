@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Portfo.API.DataContracts</name>
+    </assembly>
+    <members>
+        <member name="T:Portfo.API.DataContracts.Activity">
+            <summary>
+            Physical Activity
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Activity.ActivityUser">
+            <summary>
+            User ID
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Activity.ActivityPost">
+            <summary>
+            Post that was accessed by user
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Activity.ActivityOperation">
+            <summary>
+            Operation
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Activity.ActivityOccuredAt">
+            <summary>
+            Occured at
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Address">
+            <summary>
+            Physical address
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.AddressID">
+            <summary>
+            Address ID
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.AddressCity">
+            <summary>
+            City
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.AddressStreet">
+            <summary>
+            Street
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.AddressZipCode">
+            <summary>
+            Zip code
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.AddressCountry">
+            <summary>
+            Country
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.CreationDate">
+            <summary>
+            Address creation date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Address.LastUpdateDate">
+            <summary>
+            Address last update date
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.AddressCreation">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressCreation.City">
+            <summary>
+            City
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressCreation.Street">
+            <summary>
+            Street
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressCreation.ZipCode">
+            <summary>
+            Zip code
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressCreation.Country">
+            <summary>
+            Country
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.AddressUpdate">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressUpdate.ID">
+            <summary>
+            Address ID
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressUpdate.City">
+            <summary>
+            City
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressUpdate.Street">
+            <summary>
+            Street
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressUpdate.ZipCode">
+            <summary>
+            Zip code
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressUpdate.Country">
+            <summary>
+            Country
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.AddressUser">
+            <summary>
+            Physical address
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.AddressUser.AddressID">
+            <summary>
+            Address ID
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Like">
+            <summary>
+            Like datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Like.LikeID">
+            <summary>
+            Like ID
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Like.LikeAuthor">
+            <summary>
+            User who liked post
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Like.LikePost">
+            <summary>
+            Post that was liked by user
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Like.CreationDate">
+            <summary>
+            Like creation date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Like.LastUpdateDate">
+            <summary>
+            Like last update date
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.LikeCreation">
+            <summary>
+            Like datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.LikeCreation.Post">
+            <summary>
+            Liked post Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.LikeCreation.Author">
+            <summary>
+            User who liked post
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.LikeUpdate">
+            <summary>
+            Like datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.LikeUpdate.ID">
+            <summary>
+            Like ID
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.LikeUpdate.Author">
+            <summary>
+            User who liked post
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.LikeUpdate.Post">
+            <summary>
+            Post that was liked by user
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Post">
+            <summary>
+            Post datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.PostID">
+            <summary>
+            Post ID
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.PostAuthor">
+            <summary>
+            User who made post
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.PostTitle">
+            <summary>
+            Post title
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.PostDescription">
+            <summary>
+            Post description
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.CreationDate">
+            <summary>
+            Post creation date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Post.LastUpdateDate">
+            <summary>
+            Post last update date
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.PostCreation">
+            <summary>
+            Post datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostCreation.Title">
+            <summary>
+            Post title
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostCreation.Description">
+            <summary>
+            Post description
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostCreation.Author">
+            <summary>
+            User who made post
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.PostLike">
+            <summary>
+            Post datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostLike.PostID">
+            <summary>
+            Post ID
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.PostUpdate">
+            <summary>
+            Post datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostUpdate.ID">
+            <summary>
+            Post ID
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostUpdate.Title">
+            <summary>
+            Post title
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostUpdate.Description">
+            <summary>
+            Post description
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.PostUpdate.Author">
+            <summary>
+            User who made post
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.AddressCreationRequest">
+            <summary>
+            Address creation request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.AddressCreationRequest.Address">
+            <summary>
+            Address creation data
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.AddressUpdateRequest">
+            <summary>
+            Address update request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.AddressUpdateRequest.Address">
+            <summary>
+            Address update date
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.LikeCreationRequest">
+            <summary>
+            User creation request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.LikeCreationRequest.Like">
+            <summary>
+            Like
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.LikeUpdateRequest">
+            <summary>
+            Like update request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.LikeUpdateRequest.Like">
+            <summary>
+            Like update data
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.PostCreationRequest">
+            <summary>
+            User creation request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.PostCreationRequest.Post">
+            <summary>
+            Post that was made by user
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.PostUpdateRequest">
+            <summary>
+            Post update request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.PostUpdateRequest.Post">
+            <summary>
+            Post update data
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.Request`1">
+            <summary>
+            Generic request parameter.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.Request`1.Date">
+            <summary>
+            Request date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.Request`1.CorrelationID">
+            <summary>
+            Request correlation id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.Request`1.Payload">
+            <summary>
+            Request payload
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.UserCreationRequest">
+            <summary>
+            User creation request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.UserCreationRequest.Author">
+            <summary>
+            User creation data
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Requests.UserUpdateRequest">
+            <summary>
+            User update request
+            This follows a flow seggregation pattern to distingish commands from queries (ex: CQRS, etc).
+            No specific framework has been used to avoid additional technical complexity.
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Requests.UserUpdateRequest.Author">
+            <summary>
+            User update data
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.Responses.Response`2">
+            <summary>
+            Geeric response class.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <typeparam name="R"></typeparam>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.Request">
+            <summary>
+            Request
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.CorrelationID">
+            <summary>
+            Correlation Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.RequestDate">
+            <summary>
+            Request date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.ResponseDate">
+            <summary>
+            Response date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.ResponseContent">
+            <summary>
+            Response content
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.IsSuccessfull">
+            <summary>
+            Defines if the request has been processed successfully
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.Responses.Response`2.Error">
+            <summary>
+            Error message(s)
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.User">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.AuthorID">
+            <summary>
+            User Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.AuthorFirstname">
+            <summary>
+            User firstname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.AuthorLastname">
+            <summary>
+            User lastname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.CreationDate">
+            <summary>
+            User creation date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.LastUpdateDate">
+            <summary>
+            User last update date
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.User.AuthorAddress">
+            <summary>
+            User address
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.UserCreation">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserCreation.Firstname">
+            <summary>
+            User firstname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserCreation.Lastname">
+            <summary>
+            User lastname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserCreation.Address">
+            <summary>
+            User address
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.UserPost">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserPost.AuthorID">
+            <summary>
+            User Id
+            </summary>
+        </member>
+        <member name="T:Portfo.API.DataContracts.UserUpdate">
+            <summary>
+            User datacontract summary to be replaced
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserUpdate.ID">
+            <summary>
+            User Id
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserUpdate.Firstname">
+            <summary>
+            User firstname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserUpdate.Lastname">
+            <summary>
+            User lastname
+            </summary>
+        </member>
+        <member name="P:Portfo.API.DataContracts.UserUpdate.Address">
+            <summary>
+            User address
+            </summary>
+        </member>
+    </members>
+</doc>

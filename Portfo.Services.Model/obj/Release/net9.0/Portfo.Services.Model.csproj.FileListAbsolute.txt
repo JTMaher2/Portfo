@@ -1,0 +1,11 @@
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\bin\Release\net9.0\Portfo.Services.Model.deps.json
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\bin\Release\net9.0\Portfo.Services.Model.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\bin\Release\net9.0\Portfo.Services.Model.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\Portfo.Services.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\Portfo.Services.Model.AssemblyInfoInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\Portfo.Services.Model.AssemblyInfo.cs
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\Portfo.Services.Model.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\Portfo.Services.Model.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\refint\Portfo.Services.Model.dll
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\Portfo.Services.Model.pdb
+C:\Users\James\Documents\.NET\Portfo\Portfo\Portfo.Services.Model\obj\Release\net9.0\ref\Portfo.Services.Model.dll
